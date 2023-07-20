@@ -1,0 +1,19 @@
+.contactContainer {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactContainer > a {
+    outline: none;
+    color: rgba(0,0,0,0.753);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 35px;
+}
+
+.contactContainer > a:focus, .contactContainer > a:hover {
+    outline: none;
+    text-decoration: none;
+}

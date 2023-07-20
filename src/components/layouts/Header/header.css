@@ -1,0 +1,17 @@
+.navbar {
+  background: linear-gradient(to right, #635dc0, #3027ae);
+  color: #fff;
+  padding: 5px;
+}
+
+.speedDialIcon {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+}
+
+.speedDial {
+  position: fixed;
+  right: 3vmax;
+  bottom: 3vmax;
+}
